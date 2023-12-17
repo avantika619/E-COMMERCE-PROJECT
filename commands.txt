@@ -1,0 +1,15 @@
+to start the backend firstly go to the folder through command prompt and run: npm i --force to install all the packages
+nodemon app.js
+
+
+fake api to move where db json file is and write command:
+json-server --watch db.json --port 5000
+
+
+to move to frontend from cmd please run command :  npm i --force to install all the packages
+npm start 
+
+
+
+NOTE:- run all three commands parallel for smooth transition.
+
